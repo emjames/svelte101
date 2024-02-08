@@ -1,0 +1,22 @@
+[
+    {"id": 1, "title": "The Dog and the Cat", "status": "in stock", "notes": "pristine"},
+    {"id": 2, "title": "The Fox and the Grapes", "status": "in stock", "notes": "pristine"},
+    {"id": 3, "title": "The Tortoise and the Hare", "status": "out of stock", "notes": "minor scratches"},
+    {"id": 4, "title": "The Lion and the Mouse", "status": "in stock", "notes": "brand new"},
+    {"id": 5, "title": "The Boy Who Cried Wolf", "status": "in stock", "notes": "slightly damaged cover"},
+    {"id": 6, "title": "The Three Little Pigs", "status": "out of stock", "notes": "missing pages"},
+    {"id": 7, "title": "The Ugly Duckling", "status": "in stock", "notes": "like new"},
+    {"id": 8, "title": "Alice's Adventures in Wonderland", "status": "in stock", "notes": "ex-library book"},
+    {"id": 9, "title": "Charlie and the Chocolate Factory", "status": "in stock", "notes": "clean pages"},
+    {"id": 10, "title": "Peter Pan", "status": "out of stock", "notes": "water damage"}
+    {"id": 11, "title": "The Little Mermaid", "status": "in stock", "notes": "slight tear on cover"},
+    {"id": 12, "title": "The Jungle Book", "status": "in stock", "notes": "previous owner's name written on first page"},
+    {"id": 13, "title": "Winnie-the-Pooh", "status": "out of stock", "notes": "missing dust jacket"},
+    {"id": 14, "title": "Pippi Longstocking", "status": "in stock", "notes": "pages slightly yellowed with age"},
+    {"id": 15, "title": "Matilda", "status": "in stock", "notes": "sticker residue on back cover"},
+    {"id": 16, "title": "The Secret Garden", "status": "out of stock", "notes": "binding slightly loose"},
+    {"id": 17, "title": "Harry Potter and the Philosopher's Stone", "status": "in stock", "notes": "first edition"},
+    {"id": 18, "title": "Anne of Green Gables", "status": "in stock", "notes": "slight water damage"},
+    {"id": 19, "title": "Charlotte's Web", "status": "in stock", "notes": "missing frontispiece"},
+    {"id": 20, "title": "The Hobbit", "status": "out of stock", "notes": "inscription on inside cover"}
+]
